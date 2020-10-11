@@ -15,4 +15,9 @@ public class IndexController {
 //        int i=9/0;
         return "index";
     }
+
+    @GetMapping("/blog")
+    public String blog(){
+        return "blog";
+    }
 }
