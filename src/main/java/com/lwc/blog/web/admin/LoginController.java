@@ -1,4 +1,4 @@
-package com.lwc.blog.web;
+package com.lwc.blog.web.admin;
 
 
 import com.lwc.blog.po.User;
